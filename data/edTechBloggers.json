@@ -1,0 +1,230 @@
+{
+  "title":"Websites by Age",
+  
+"sites":[
+  {
+    "Title":"Teachers With Apps",
+    "Website":"http://teacherswithapps.com/",
+    "Age":"P12",
+    "App":"yes",
+    "Tools":"no"
+  },
+  {
+    "Title":"Cool Cat Teacher",
+    "Website":"http://www.coolcatteacher.com/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Digital Divide & Conquer",
+    "Website":"http://digitaldivideandconquer.blogspot.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"EdSurge",
+    "Website":"https://www.edsurge.com/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Educational Technology & Mobile Learning",
+    "Website":"http://www.educatorstechnology.com/",
+    "Age":"P12",
+    "App":"yes",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Edudemic",
+    "Website":"http://www.edudemic.com/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Free Technology For Teachershttp://www.freetech4teachers.com/",
+    "Website":"http://www.freetech4teachers.com/",
+    "Age":"P12",
+    "App":"yes",
+    "Tools":"yes"
+  },
+  {
+    "Title":"iGameMom",
+    "Website":"http://igamemom.com/",
+    "Age":"P12",
+    "App":"yes",
+    "Tools":"no"
+  },
+  {
+    "Title":"iPad Apps For School",
+    "Website":"http://ipadapps4school.com/",
+    "Age":"P12",
+    "App":"yes",
+    "Tools":"no"
+  },
+  {
+    "Title":"iTeach with iPads",
+    "Website":"http://iteachwithipads.net/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Kleinspriation",
+    "Website":"http://www.kleinspiration.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Learning and Sharing with Ms. Lirenman",
+    "Website":"http://learningandsharingwithmsl.blogspot.com/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Mrs. Morgan's Superstars",
+    "Website":"http://mrsmorgansstars.edublogs.org/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Mrs. Wideen's Blog",
+    "Website":"http://www.mrswideen.com/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Ms. EdTechie",
+    "Website":"http://www.msedtechie.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Smart Apps For Kids",
+    "Website":"http://www.smartappsforkids.com/",
+    "Age":"P12",
+    "App":"yes",
+    "Tools":"no"
+  },
+  {
+    "Title":"Tech Chef",
+    "Website":"http://www.techchef4u.com/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Technology Rocks. Seriously.",
+    "Website":"http://www.techitikes.com/",
+    "Age":"K5",
+    "App":"yes",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Technology Tailgate",
+    "Website":"http://www.technologytailgate.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"The Techie Teacher",
+    "Website":"http://thetechieteacher2.blogspot.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Two Guys and Some iPads",
+    "Website":"http://www.twoguysandsomeipads.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"iPad 4 Schools",
+    "Website":"http://ipad4schools.org/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Learing in Hand with Tony Vincent",
+    "Website":"http://learninginhand.com/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"The BYOT Network",
+    "Website":"http://byotnetwork.com/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"A Digital Kindergarten",
+    "Website":"http://www.adigitalkindergarten.com/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"EdTech Focus on K-12",
+    "Website":"http://www.edtechmagazine.com/k12/",
+    "Age":"P12",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"iPads in Kindergarten",
+    "Website":"http://ipadsink.blogspot.com/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"iTeach 1:1",
+    "Website":"http://iteach1to1.blogspot.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Lori's Latest Links",
+    "Website":"http://www.lorislatestlinks.com/",
+    "Age":"K5",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Technology In Early Childhoodhttp://technologyinearlychildhood.com/",
+    "Website":"http://technologyinearlychildhood.com/",
+    "Age":"EE",
+    "App":"yes",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Primary Preoccupation",
+    "Website":"http://kathycassidy.com/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  },
+  {
+    "Title":"Techi Tikes",
+    "Website":"http://www.techitikes.com/",
+    "Age":"EE",
+    "App":"no",
+    "Tools":"yes"
+  }
+]
+}
